@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "AI & ML Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: BreastCancerPred_with_Portfolio.ipynb
+        text: Breast Cancer Prediction
+
+format:
+  html:
+    theme: cosmo      # you can change to flatly, darkly, journal, etc.
+    toc: true
+    code-tools: false
+    code-fold: false
+    code-line-numbers: false
+    echo: false       # hides all code completely in final HTML
