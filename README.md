@@ -16,8 +16,8 @@ This project uses machine learning models to classify breast cancer cases using 
 - Cross-validation  
 - Model comparison (various classifiers)
 **Goal:** Support early detection of breast cancer through predictive modeling.
-[View Breast Cancer Prediction Project](https://yourusername.github.io/BreastCancerPrediction/Updated_BreastCancerPred_BCP.html)
-Try the live demo: [BreastCancerPred (Hugging Face Space)](https://huggingface.co/spaces/phaphety2025/BreastCancerPred)  
+- [View Breast Cancer Prediction Project](https://yourusername.github.io/BreastCancerPrediction/Updated_BreastCancerPred_BCP.html)
+- Try the live demo: [BreastCancerPred (Hugging Face Space)](https://huggingface.co/spaces/phaphety2025/BreastCancerPred)  
 
 
 ### Customer Behavior Prediction
@@ -25,14 +25,14 @@ This project uses ML models to predict customer churn and behavior patterns.
 Analyzed customer transaction data to predict churn and behavior patterns.  
 Applied **Logistic Regression, Decision Tree, and data visualization techniques**.  
 **Goal:** Help businesses reduce churn and improve customer retention.
-[View Project on GitHub](https://github.com/Lueji-ai/customer-behavior-prediction) 
+- [View Project on GitHub](https://github.com/Lueji-ai/customer-behavior-prediction) 
 
 ### Pet Re-Identification
 This project builds a deep learning Siamese Network for pet re-identification, and it includes:  
 - Pairwise image comparison using contrastive learning  
 - Database search to identify lost pets
 **Goal:** Assist shelters and owners in reuniting lost pets using AI.
-Try the live demo: [pet-reid-app (Hugging Face Space)](https://huggingface.co/spaces/phaphety2025/pet-reid-app)  
+- Try the live demo: [pet-reid-app (Hugging Face Space)](https://huggingface.co/spaces/phaphety2025/pet-reid-app)  
 
 ---
 
@@ -43,7 +43,7 @@ Background in GIS, Risk Analysis, and Policy Management
 - Background in **GIS, Risk Analysis, and Policy Management**  
 - Experience in **fraud detection, anomaly analysis, and sustainability research**  
 - Interested in **AI for healthcare, public policy, and small business innovation**
-[View My Resume](https://github.com/Lueji-ai/AI-ML-in-Practice/blob/main/Resume.pdf)
+- [View My Resume](https://github.com/Lueji-ai/AI-ML-in-Practice/blob/main/Resume.pdf)
 
 **Connect with me:**  
 - GitHub: [lueji-ai](https://github.com/lueji-ai)  
