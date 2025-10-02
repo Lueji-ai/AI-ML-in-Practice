@@ -16,7 +16,7 @@ This project uses machine learning models to classify breast cancer cases using 
 - Cross-validation  
 - Model comparison (various classifiers)
 **Goal:** Support early detection of breast cancer through predictive modeling.
-- [View Breast Cancer Prediction Project](https://Lueji-ai.github.io/AI-ML-in-Practice.github.io/BreastCancerPrediction/Updated_BreastCancerPred_BCP.html)
+- https://lueji-ai.github.io/AI-ML-in-Practice/Updated_BreastCancerPred_BCP.html
 - Try the live demo: [BreastCancerPred (Hugging Face Space)](https://huggingface.co/spaces/phaphety2025/BreastCancerPred)  
 
 
