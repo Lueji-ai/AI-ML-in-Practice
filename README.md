@@ -24,7 +24,7 @@ This project uses ML models to predict customer churn and behavior patterns.
 Analyzed customer transaction data to predict churn and behavior patterns.  
 Applied **Logistic Regression, Decision Tree, and data visualization techniques**.  
 **Goal:** Help businesses reduce churn and improve customer retention.
-- [View Project on GitHub](https://github.com/Lueji-ai/customer-behavior-prediction) 
+- View the [View Project on GitHub](https://github.com/Lueji-ai/customer-behavior-prediction) 
 
 ### Pet Re-Identification
 This project builds a deep learning Siamese Network for pet re-identification, and it includes:  
