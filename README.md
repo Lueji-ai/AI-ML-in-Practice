@@ -16,7 +16,7 @@ This project uses machine learning models to classify breast cancer cases using 
 - Cross-validation  
 - Model comparison (various classifiers)
 **Goal:** Support early detection of breast cancer through predictive modeling.
-[View Updated Demo](BreastCancerPred/Updated_BreastCancerPred_BCP.html)
+[View Breast Cancer Prediction Project](https://yourusername.github.io/BreastCancerPrediction/Updated_BreastCancerPred_BCP.html)
 Try the live demo: [BreastCancerPred (Hugging Face Space)](https://huggingface.co/spaces/phaphety2025/BreastCancerPred)  
 
 
