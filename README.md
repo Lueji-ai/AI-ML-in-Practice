@@ -10,18 +10,27 @@ I am passionate about applying ML/AI to solve real-world problems in **healthcar
 ## Projects Showcase
 
 ### Breast Cancer Prediction
+This project uses machine learning models to classify breast cancer cases using real medical data, and it includes:  
+- Exploratory Data Analysis (EDA)  
+- Feature importance visualization  
+- Cross-validation  
+- Model comparison (various classifiers)
+**Goal:** Support early detection of breast cancer through predictive modeling.
 Try the live demo: [BreastCancerPred (Hugging Face Space)](https://huggingface.co/spaces/phaphety2025/BreastCancerPred)  
-Developed ML models to classify breast cancer cases using medical data. Includes EDA, feature importance, cross-validation, and model comparisons.  
-Goal: Support early cancer detection through predictive modeling. 
+
 
 ### Customer Behavior Prediction
-Analyzed customer transaction data to predict churn and behavior patterns. Applied **Decision Trees, Naive Bayes, and data visualization techniques**.  
-**Goal:** Help businesses reduce churn and improve customer retention.  
+This project uses ML models to predict customer churn and behavior patterns.
+Analyzed customer transaction data to predict churn and behavior patterns.  
+Applied **Logistic Regression, Decision Tree, and data visualization techniques**.  
+**Goal:** Help businesses reduce churn and improve customer retention.
 
 ### Pet Re-Identification
+This project builds a deep learning Siamese Network for pet re-identification, and it includes:  
+- Pairwise image comparison using contrastive learning  
+- Database search to identify lost pets
+**Goal:** Assist shelters and owners in reuniting lost pets using AI.
 Try the live demo: [pet-reid-app (Hugging Face Space)](https://huggingface.co/spaces/phaphety2025/pet-reid-app)  
-Built a deep learning Siamese Network for pet re-identification. Implemented contrastive learning for pairwise image comparison and database search.  
-Goal: Assist shelters and owners in reuniting lost pets using AI.  
 
 ---
 
@@ -36,8 +45,8 @@ Background in GIS, Risk Analysis, and Policy Management
 
 **Connect with me:**  
 - GitHub: [lueji-ai](https://github.com/lueji-ai)  
-- LinkedIn:  LinkedIn Profile – Lueji Phaphety
-
+- LinkedIn: [Lueji Phaphety](https://www.linkedin.com/in/lueji-phaphety/)
+  
 ---
 
 ⭐ If you like my work, consider following this repo for updates as I add more projects!
